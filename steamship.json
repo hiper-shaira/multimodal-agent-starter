@@ -1,9 +1,9 @@
 {
 	"type": "package",
-	"handle": "",
-	"version": "0.0.1",
+	"handle": "rvchat-bot",
+	"version": "0.1.2",
 	"description": "",
-	"author": "",
+	"author": "Shaira",
 	"entrypoint": "Unused",
 	"public": true,
 	"plugin": null,
@@ -14,14 +14,14 @@
 		]
 	},
 	"configTemplate": {
-		"telegram_token": {
+		"bot_token": {
 			"type": "string",
-			"description": "The secret token for your Telegram bot",
-			"default": ""
+			"description": "6200365050:AAHalqiPjjkf8JnOjaB_-m0oe9IrJ_7QAVo",
+			"default": null
 		}
 	},
 	"steamshipRegistry": {
-		"tagline": "",
+		"tagline": null,
 		"tagline2": null,
 		"usefulFor": null,
 		"videoUrl": null,
@@ -29,13 +29,13 @@
 		"demoUrl": null,
 		"blogUrl": null,
 		"jupyterUrl": null,
-		"authorGithub": "",
-		"authorName": "",
+		"authorGithub": null,
+		"authorName": "Shaira",
 		"authorEmail": null,
 		"authorTwitter": null,
 		"authorUrl": null,
 		"tags": [
-			"Harvard"
+			"Chat"
 		]
 	}
 }
